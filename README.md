@@ -1,4 +1,4 @@
 # first-project
 this is my first git repository.
 <br>
-Author - Sonu kumar
+Author - (Sonu kumar)
